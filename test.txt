@@ -1,2 +1,1 @@
 this is test from feature-add-text
-this is wrong input.
